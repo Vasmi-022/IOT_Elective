@@ -1,5 +1,5 @@
 # IOT BASICS
 **NEW**
 *ITALICS*
-1.SERVE
-2.ENTER
+1.Serve
+
